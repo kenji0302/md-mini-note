@@ -1,0 +1,38 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "My best Nuxt.js project",
+  "author": "Kenji Ono",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "cross-env NODE_ENV=\"production\" nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.5.4",
+    "@nuxtjs/google-analytics": "^2.2.0",
+    "@nuxtjs/vuetify": "0.5.5",
+    "@toast-ui/vue-editor": "^1.1.1",
+    "child_process": "^1.0.2",
+    "codemirror": "^5.48.0",
+    "coffeescript": "^2.4.1",
+    "cross-env": "^5.2.0",
+    "dropbox": "^4.0.26",
+    "fs": "0.0.1-security",
+    "isomorphic-fetch": "^2.2.1",
+    "js2coffee": "^2.2.0",
+    "markdown-it": "^8.4.2",
+    "module": "^1.2.5",
+    "nuxt": "^2.0.0",
+    "string_decoder": "^1.2.0",
+    "tui-editor": "^1.4.4-alpha.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2"
+  }
+}
