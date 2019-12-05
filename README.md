@@ -1,13 +1,8 @@
 # md-mini-note
 
-## Firebase 
+## Sample
 
 <https://md-mini-note.web.app/>
-
-```bash
-# deeploy
-yarn run build
-```
 
 ## Setup
 
@@ -38,5 +33,3 @@ $ yarn start
 # generate static project
 $ yarn run generate
 ```
-
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
